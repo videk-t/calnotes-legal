@@ -23,6 +23,22 @@ request and delete the account within 30 days.
 
 ---
 
+## Deleting some data, without deleting your account
+
+You do not have to close your account to remove data from it.
+
+- **A single food entry** — open the day on **Today** or **History**, tap the
+  entry to expand it, then tap **Delete**. The day's totals update immediately.
+- **A food photo** — deleting the entry it belongs to removes the photo from
+  our storage with it.
+
+These deletions are immediate and permanent, and neither affects the rest of
+your account.
+
+For anything else — a weigh-in, or your profile details — email
+**vipbuildapps@gmail.com** from the address on your account, telling us what to
+remove. We will action it within 30 days.
+
 ## What gets deleted
 
 Everything, permanently and immediately:
